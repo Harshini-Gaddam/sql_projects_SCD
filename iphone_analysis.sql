@@ -1,9 +1,9 @@
 -- We first create the database
-create database datavidhya
+create database harshini_iphone
 go
 
 -- Modify the name of the database
-ALTER DATABASE datavidhya MODIFY NAME = DataVidhya;
+ALTER DATABASE harshini_iphone MODIFY NAME = Harshini_Iphone;
 
 create schema Iphone_analysis
 go
