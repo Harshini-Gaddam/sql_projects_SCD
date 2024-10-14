@@ -1,2 +1,2 @@
 # sql_projects
-This speaks SQL projects that I did
+This Repository speaks SQL projects that I did
